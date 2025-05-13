@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/iamKartikSharma/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -50,5 +51,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
