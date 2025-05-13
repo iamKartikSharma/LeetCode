@@ -26,12 +26,14 @@
 | [0054-spiral-matrix](https://github.com/iamKartikSharma/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/iamKartikSharma/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamKartikSharma/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
