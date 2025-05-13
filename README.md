@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iamKartikSharma/LeetCode/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/iamKartikSharma/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1250-longest-common-subsequence](https://github.com/iamKartikSharma/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -34,12 +35,14 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/iamKartikSharma/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/iamKartikSharma/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
