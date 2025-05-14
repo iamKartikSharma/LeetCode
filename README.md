@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamKartikSharma/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamKartikSharma/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0076-minimum-window-substring](https://github.com/iamKartikSharma/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamKartikSharma/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
@@ -74,4 +76,5 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamKartikSharma/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
