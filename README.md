@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/iamKartikSharma/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamKartikSharma/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/iamKartikSharma/LeetCode/tree/master/0057-insert-interval) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/iamKartikSharma/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/iamKartikSharma/LeetCode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamKartikSharma/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
