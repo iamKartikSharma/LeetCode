@@ -6,6 +6,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/iamKartikSharma/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/iamKartikSharma/LeetCode/tree/master/0076-minimum-window-substring) |
+| [1078-remove-outermost-parentheses](https://github.com/iamKartikSharma/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/iamKartikSharma/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/iamKartikSharma/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iamKartikSharma/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/iamKartikSharma/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
