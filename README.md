@@ -37,6 +37,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/iamKartikSharma/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/iamKartikSharma/LeetCode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/iamKartikSharma/LeetCode/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/iamKartikSharma/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -112,4 +114,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
