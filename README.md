@@ -36,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/iamKartikSharma/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/iamKartikSharma/LeetCode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@
 | [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamKartikSharma/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
