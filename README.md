@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iamKartikSharma/LeetCode/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/iamKartikSharma/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/iamKartikSharma/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/iamKartikSharma/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
@@ -36,6 +37,7 @@
 | [0057-insert-interval](https://github.com/iamKartikSharma/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iamKartikSharma/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/iamKartikSharma/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/iamKartikSharma/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/iamKartikSharma/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -92,6 +94,7 @@
 | [0048-rotate-image](https://github.com/iamKartikSharma/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamKartikSharma/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/iamKartikSharma/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/iamKartikSharma/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iamKartikSharma/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/iamKartikSharma/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/iamKartikSharma/LeetCode/tree/master/0735-asteroid-collision) |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iamKartikSharma/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/iamKartikSharma/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/iamKartikSharma/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
