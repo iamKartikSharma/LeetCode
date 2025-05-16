@@ -39,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/iamKartikSharma/LeetCode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/iamKartikSharma/LeetCode/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamKartikSharma/LeetCode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/iamKartikSharma/LeetCode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamKartikSharma/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -105,6 +107,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamKartikSharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/iamKartikSharma/LeetCode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/iamKartikSharma/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
