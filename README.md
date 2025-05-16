@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/iamKartikSharma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/iamKartikSharma/LeetCode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/iamKartikSharma/LeetCode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/iamKartikSharma/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/iamKartikSharma/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamKartikSharma/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamKartikSharma/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamKartikSharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0907-koko-eating-bananas](https://github.com/iamKartikSharma/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
