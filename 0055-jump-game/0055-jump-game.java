@@ -1,27 +1,14 @@
 class Solution {
-    Boolean[] dp = new Boolean[10001];
-    boolean solve(int[] nums, int idx){
-        if(idx>= nums.length){
-            return false;
-        }
-        if(idx==nums.length-1){
-            return true;
-        }
-        if(dp[idx]!=null){
-            return dp[idx];
-        }
+    public boolean canJump(int[] nums) {
+        
+        int goal = nums.length-1;
 
-        for (int jump = 1; jump <= nums[idx]; jump++) {
-            if (solve(nums, idx + jump)) {
-                return dp[idx]=true;
+        for(int i = nums.length-2;i>=0;i--){
+            if(i+nums[i]>=goal){
+                goal=i;
             }
         }
 
-        return dp[idx]=false;
-
-    }
-    public boolean canJump(int[] nums) {
-        
-        return solve(nums, 0);
+        return goal==0;
     }
 }
